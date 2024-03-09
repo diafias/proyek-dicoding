@@ -5,7 +5,8 @@
 Proyek ini bertujuan untuk menganalisis data pada E-Commerce Public Dataset. Tujuan akhirnya adalah untuk menghasilkan wawasan dan informasi yang berguna dari data yang dianalisis.
 
 
-##Instalasi
+## Instalasi
+
 1. Pastikan untuk clone repository ini pada komputer lokal dengan perintah dibawah ini :
    ```shell
    git clone https://github.com/diafias/proyek-dicoding.git

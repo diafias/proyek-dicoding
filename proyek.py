@@ -1,4 +1,3 @@
-import os
 from matplotlib import figure
 import streamlit as st
 import pandas as pd
