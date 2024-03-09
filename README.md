@@ -22,3 +22,6 @@ lalu bisa dijalankan dengan perintah :
    ```shell
     streamlit run proyek.py
    ```
+
+4. Link app dashboard
+https://diafias-proyek-dicoding-proyek-ob1n3h.streamlit.app/
